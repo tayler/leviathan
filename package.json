@@ -1,0 +1,36 @@
+{
+  "name": "leviathan",
+  "author": "Tayler Summers",
+  "version": "0.1.1",
+  "description": "Server load testing with nodejs.",
+  "keywords": [
+    'load',
+    'server',
+    'testing'
+  ],
+  "homepage": "https://github.com/tayler/leviathan",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tayler/leviathan.git"
+  },
+  "main": "lib/leviathan.js",
+  "dependencies": {
+    "q": "~0.9.7"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.8.7"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "readme": "Please use only where you have proper authorization to load test. ## License:\n\nThe MIT License (MIT)\n\nCopyright � 2012 Tayler Summers\n",
+  "_id": "leviathan@0.1.1",
+  "preferGlobal": "true",
+  "bin": {
+    "leviathan" : "lib/leviathan.js"
+  }
+}
