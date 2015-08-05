@@ -3,11 +3,7 @@
   "author": "Tayler Summers",
   "version": "0.1.1",
   "description": "Server load testing with nodejs.",
-  "keywords": [
-    'load',
-    'server',
-    'testing'
-  ],
+  "keywords": [],
   "homepage": "https://github.com/tayler/leviathan",
   "repository": {
     "type": "git",
